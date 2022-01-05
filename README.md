@@ -1,8 +1,8 @@
-RTCare
+# RTCare
 
+## Description:
+RTcare is a service that provides real time medical care online. for high mobility persons who don't have time to have a medical check-up.
 
-A project for providing special , real time medical care for high mobility persons and special conditions
-
-Created By :
-Rayhan Ramanda
-Dafa Syahidina
+**Created By :**
+Rayhan Ramanda(2501982582)
+Dafa Syaidina(2520022282)
